@@ -14,6 +14,7 @@
 		360B6E07243B4E1400EF1319 /* Protocols_beginner.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 360B6E05243B4E1400EF1319 /* Protocols_beginner.xcdatamodeld */; };
 		360B6E09243B4E1A00EF1319 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 360B6E08243B4E1A00EF1319 /* Assets.xcassets */; };
 		360B6E0C243B4E1A00EF1319 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 360B6E0A243B4E1A00EF1319 /* LaunchScreen.storyboard */; };
+		360B6E14243B4E6200EF1319 /* Protocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 360B6E13243B4E6200EF1319 /* Protocol.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		360B6E08243B4E1A00EF1319 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		360B6E0B243B4E1A00EF1319 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		360B6E0D243B4E1A00EF1319 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		360B6E13243B4E6200EF1319 /* Protocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocol.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				360B6DFC243B4E1400EF1319 /* AppDelegate.swift */,
 				360B6DFE243B4E1400EF1319 /* SceneDelegate.swift */,
 				360B6E00243B4E1400EF1319 /* ViewController.swift */,
+				360B6E13243B4E6200EF1319 /* Protocol.swift */,
 				360B6E02243B4E1400EF1319 /* Main.storyboard */,
 				360B6E08243B4E1A00EF1319 /* Assets.xcassets */,
 				360B6E0A243B4E1A00EF1319 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				360B6E07243B4E1400EF1319 /* Protocols_beginner.xcdatamodeld in Sources */,
 				360B6DFD243B4E1400EF1319 /* AppDelegate.swift in Sources */,
 				360B6DFF243B4E1400EF1319 /* SceneDelegate.swift in Sources */,
+				360B6E14243B4E6200EF1319 /* Protocol.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

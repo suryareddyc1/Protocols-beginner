@@ -9,12 +9,13 @@
 import UIKit
 
 class ViewController: UIViewController {
-
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        let newEmp = EmployeeRegistration(name: "Rob", employer: "TCS")
+        print(newEmp.name!)
+        print(newEmp.employer!)
     }
-
 
 }
 
